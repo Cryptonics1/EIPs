@@ -1,4 +1,4 @@
-on:
+Control + space
   workflow_run:
     workflows:
       - Auto Review Bot Trigger
